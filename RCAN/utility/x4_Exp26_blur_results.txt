@@ -1,0 +1,3 @@
+Results for x4:
+Average PSNR: 28.75169384908125
+Average SSIM: 0.8361722404301872

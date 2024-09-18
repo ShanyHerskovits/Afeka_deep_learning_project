@@ -1,0 +1,3 @@
+Results for x8:
+Average PSNR: 25.454287669786872
+Average SSIM: 0.7260432149012443

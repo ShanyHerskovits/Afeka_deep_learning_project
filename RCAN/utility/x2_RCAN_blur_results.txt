@@ -1,0 +1,3 @@
+Results for x2:
+Average PSNR: 29.269403591926185
+Average SSIM: 0.8620039612364783
