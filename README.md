@@ -24,7 +24,6 @@ Results demonstrate that the model effectively restores detailed HR images from 
 
 To run the code, copy the RealSR_V3 folder under the RCAN root folder.
 
-[Link to the compleat experiment folder that includes all our results, config files and models](https://drive.google.com/drive/folders/1Ba0lSfHnHK4vEog9D93qit-M-JIskrte?usp=sharing)
+[Link to the compleat experiment folder that includes all our results and models](https://drive.google.com/drive/folders/1Ba0lSfHnHK4vEog9D93qit-M-JIskrte?usp=sharing)
 
-To run the code you need to creat a folder named experiment under the RCAN root folder.
 
